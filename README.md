@@ -17,7 +17,7 @@ A professional network reconnaissance tool with Flask web interface for port sca
 ## Installation
 
 ```bash
-git clone <https://github.com/Panda-0x01/Network_Scanning.git>
+git clone https://github.com/Panda-0x01/Network_Scanning.git
 cd network_scanner
 pip install -r requirements.txt
 python app.py
